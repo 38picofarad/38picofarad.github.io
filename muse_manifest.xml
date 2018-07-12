@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="moa-ip.com" resolutions="1x,2x" timestamp="1531383389924">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="moa-ip.com" resolutions="1x,2x" timestamp="1531390143254">
   <folder name="css">
     <file name="site_global.css" crc="298616216"/>
     <file name="master_a-master.css" crc="4011643717" ref="index"/>
-    <file name="index.css" crc="3813120609" ref="index"/>
+    <file name="index.css" crc="3985649443" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="opensans-condbold-webfont.woff" crc="391238685"/>
@@ -18,9 +18,6 @@
     <file name="opensans-light.woff" crc="407161711"/>
     <file name="opensans-light.eot" crc="4151786670"/>
     <file name="opensans-light.svg" crc="28685502"/>
-  </folder>
-  <folder name="assets">
-    <file name="preloader.gif" crc="3762223563" seo="true" mt="1389975453000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -322,5 +319,5 @@
     </folder>
     <file name="index.html" crc="4261034221" seo="true" mt="1531351551205" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4187907605" seo="true" mt="1531383377901" redirect="true"/>
+  <file name="index.html" crc="461763237" seo="true" mt="1531390129781" redirect="true"/>
 </manifest>
