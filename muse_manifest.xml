@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="moa-ip.com" resolutions="1x,2x" timestamp="1531390143254">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="moa-ip.com" resolutions="1x,2x" timestamp="1531391374055">
   <folder name="css">
     <file name="site_global.css" crc="298616216"/>
     <file name="master_a-master.css" crc="4011643717" ref="index"/>
@@ -319,5 +319,5 @@
     </folder>
     <file name="index.html" crc="4261034221" seo="true" mt="1531351551205" redirect="true"/>
   </folder>
-  <file name="index.html" crc="461763237" seo="true" mt="1531390129781" redirect="true"/>
+  <file name="index.html" crc="510930170" seo="true" mt="1531391347910" redirect="true"/>
 </manifest>
