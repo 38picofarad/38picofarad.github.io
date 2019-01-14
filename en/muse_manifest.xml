@@ -1,0 +1,323 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="moa-ip.com" resolutions="1x,2x" timestamp="1531391374055">
+  <folder name="css">
+    <file name="site_global.css" crc="298616216"/>
+    <file name="master_a-master.css" crc="4011643717" ref="index"/>
+    <file name="index.css" crc="3985649443" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensans-condbold-webfont.woff" crc="391238685"/>
+    <file name="opensans-condbold-webfont.eot" crc="402788862"/>
+    <file name="opensans-condlight-webfont.woff" crc="4084404039"/>
+    <file name="opensans-condlight-webfont.eot" crc="4075655377"/>
+    <file name="notosanscjkkr-medium.woff" crc="3956521224"/>
+    <file name="notosanscjkkr-medium.eot" crc="323617419"/>
+    <file name="notosanscjkkr-light.woff" crc="59257283"/>
+    <file name="notosanscjkkr-light.eot" crc="198788482"/>
+    <file name="notosanscjkkr-bold.woff" crc="458403669"/>
+    <file name="notosanscjkkr-bold.eot" crc="349541470"/>
+    <file name="opensans-light.woff" crc="407161711"/>
+    <file name="opensans-light.eot" crc="4151786670"/>
+    <file name="opensans-light.svg" crc="28685502"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="4173490262" ref="index:phone>index"/>
+    <file name="webpro.js" crc="242022427" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="432257050" ref="phone>index:index"/>
+    <file name="stars.jpg" crc="3845824019" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotitle.png" crc="292591135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_wrap.png" crc="4210178708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider_shadow.png" crc="26595705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newyork2.jpg" crc="3887408782" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elipses.png" crc="170131567" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part_o.png" crc="128920965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service1.png" crc="4019796959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service1_2x.png" crc="4019796959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service2.png" crc="305716775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service2_2x.png" crc="4064107184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service3.png" crc="3797476193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service3_2x.png" crc="7273687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service4.png" crc="3858770301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service4_2x.png" crc="4158988106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="한국저작권위원회.png" crc="133448163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="한국저작권위원회_2x.png" crc="235862398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisti.png" crc="3765395149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisti_2x.png" crc="3967168117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kipris.png" crc="4195209499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kipris_2x.png" crc="494497027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="한국발명진흥회.png" crc="444998889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="한국발명진흥회_2x.png" crc="3919789706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="대한변리사회.png" crc="500850141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="대한변리사회_2x.png" crc="3911054607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="중소기업청.png" crc="3931147642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="중소기업청_2x.png" crc="4199874738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="산업통상자원부.png" crc="90980949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="산업통상자원부_2x.png" crc="4287027245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="특허청.png" crc="3995561989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="특허청_2x.png" crc="333973385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="street1.jpg" crc="3788770445" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="길세영_round_gray.png" crc="3861430198" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="길세영_round.png" crc="482948581" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close.png" crc="4291745421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="김진_round_gray.png" crc="102497771" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="김진_round.png" crc="444019352" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="유근영_round_gray.png" crc="335712556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="유근영_round.png" crc="3864828625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="윤경민_round_gray.png" crc="4025948446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="윤경민_round.png" crc="3956559340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="이명원_round_gray.png" crc="3883354303" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="이명원_round.png" crc="4205687620" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="이상용_round_gray.png" crc="4055951130" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="이상용_round.png" crc="3789813223" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="윤영진_round_gray.png" crc="3866893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="윤영진_round.png" crc="4125170666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handshake1.jpg" crc="412256582" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up.png" crc="4091283951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-icon.png" crc="297361904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-icon_2x.png" crc="76431476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf-brochure-user-manual-icon-1024x1024.png" crc="4279900960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf-brochure-user-manual-icon-1024x1024_2x.png" crc="3859908494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_c.png" crc="3817166679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_r.png" crc="3809064569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_l.png" crc="398886663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part_a.png" crc="4226132296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part_m.png" crc="408471748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white1.png" crc="3790037258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menuv@2x.png" crc="4249463786" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menuv@2x_2x.png" crc="4133878333" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotitle@2x.png" crc="119081784" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotitle@2x_2x.png" crc="3976992500" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_wrap@2x.png" crc="165199784" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_wrap@2x_2x.png" crc="165199784" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_c@2x.png" crc="3789782436" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_c@2x_2x.png" crc="3789782436" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_r@2x.png" crc="4251948982" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_r@2x_2x.png" crc="4251948982" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_l@2x.png" crc="3961547677" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="particle_l@2x_2x.png" crc="175759278" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whitelogoempty@2x.png" crc="532997791" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whitelogoempty@2x_2x.png" crc="419695646" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close57x57.png" crc="3782117543" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close57x57_2x.png" crc="4291745421" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close45x45.png" crc="218184850" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close45x45_2x.png" crc="4016274086" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="서민국_round.png" crc="17040119" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="서민국_round_gray.png" crc="38775368" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close54x54.png" crc="4280500950" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close54x54_2x.png" crc="4044464919" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newyork1.jpg" crc="277943975" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stars@2x.jpg" crc="28183551" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stars@2x_2x.jpg" crc="3845824019" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3836759612" ref="phone>index"/>
+      <file name="index.css" crc="265896215" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4261034221" seo="true" mt="1531351551205" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="510930170" seo="true" mt="1531391347910" redirect="true"/>
+</manifest>
