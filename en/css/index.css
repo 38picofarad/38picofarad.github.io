@@ -1950,13 +1950,13 @@
 #u2914 {
     z-index: 411;
     width: 894px;
-    height: 518.8939490445857px;
+    height: 519px;
     border-width: 0px;
     border-color: transparent;
     background-color: transparent;
     padding-left: 24px;
     padding-top: 11px;
-    padding-bottom: 137.10605095541428px;
+    padding-bottom: 137px;
     margin-right: -10000px;
     position: relative;
     top: 22px;
@@ -2155,24 +2155,24 @@
 #u804 {
     position: absolute;
     width: 962px;
-    height: 727px;
+    height: 607px;
     border-width: 0px;
     border-color: transparent;
     background-color: #191919;
     background-color: rgba(0, 0, 0, 0.9);
     padding-bottom: 44px;
-    top: -25px;
+    top: -295px;
     -pie-background: rgba(0, 0, 0, 0.9);
 }
 
 #u804popup {
-    z-index: 485;
+    z-index: 410;
 }
 
 #u805 {
     z-index: 486;
     width: 894px;
-    height: 531.9439490445864px;
+    height: 554px;
     border-width: 0px;
     border-color: transparent;
     background-color: transparent;
@@ -2188,7 +2188,7 @@
 #u806-8 {
     z-index: 531;
     width: 894px;
-    min-height: 187px;
+    min-height: 195px;
     background-color: transparent;
     line-height: 17px;
     font-family: '__Noto Sans CJK KR_5';
